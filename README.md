@@ -4,7 +4,7 @@ To contribute to any of Lyft's open source projects it's necessary to accept the
 Contributor License Agreement (CLA). The process for signing is as easy as
 contributing to one of the projects. Please do the following steps:
 
-1. Read the [CLA](https://github.com/lyft/CLA/blob/master/CLA.md)
+1. Read the [CLA](https://github.com/lyft/CLA/blob/master/CLA.md).
 2. Fork the CLA repository.
 3. Clone your fork, and create a new branch.
 4. Edit CONTRIBUTORS.md, and add your name and email address to the list.
