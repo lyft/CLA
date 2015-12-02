@@ -3,3 +3,4 @@ Please use the following format: Name (email@address.com)
 
 1. Ryan Lane (ryan@ryandlane.com)
 1. Evelio Tarazona (evelio@evelio.info)
+1. Bart Whiteley (bwhiteley@gmail.com)
