@@ -12,3 +12,5 @@ Please use the following format: Name (email@address.com)
 1. Kyle Bashour (kylebshr@me.com)
 1. Daniel Schlaug (daniel.schlaug@gmail.com)
 1. Ryan Harter (ryanjharter@gmail.com)
+1. Robert Manson (robmanson@gmail.com)
+
