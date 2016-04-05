@@ -1,3 +1,0 @@
-script:
-  - echo "Checking for $(git log -1 --pretty='format:%ae')"
-  - grep --quiet "$(git log -1 --pretty='format:%ae')" CONTRIBUTORS.md
