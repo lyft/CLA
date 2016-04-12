@@ -16,3 +16,5 @@ Please use the following format: Name (email@address.com)
 1. Keith Smiley (keithbsmiley@gmail.com)
 1. John Rodriguez (john.rodriguez@gmail.com)
 1. Andy Brody (git@abrody.com)
+1. John Zucker (john.zucker@neoworks.com)
+
